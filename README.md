@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/waspmuc/tischkickermonitor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+[Vibrationsensor](http://kicker-aka.jambit.com/vibrationsensor/api/)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Jambit Click here](http://kicker-aka.jambit.com/vibrationsensor/api/)
+
 
 [Link](http://kicker-aka.jambit.com/vibrationsensor/api/) and ![Image](src)
 ```
