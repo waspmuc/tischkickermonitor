@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[Jambit Click here](http://kicker-aka.jambit.com/vibrationsensor/api/)
+
 [Link](http://kicker-aka.jambit.com/vibrationsensor/api/) and ![Image](src)
 ```
 
