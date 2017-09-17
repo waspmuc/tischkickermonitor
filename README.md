@@ -20,6 +20,17 @@ Each sensor service is designed as a single microservice which is implemented us
 
 For this services an api first approach is used with [NodeJS](https://nodejs.org/en/) and  [Swagger-Express-MW](https://www.npmjs.com/package/swagger-express-mw). Based on the defined API ([see swagger's OAI](https://swagger.io/introducing-the-open-api-initiative/)) the skeleton is created and then modified for the specific sensors. The sensors are connected via [node-grovepi](https://www.npmjs.com/package/node-grovepi) module. The services itself are managed by the process manager [PM2](http://pm2.keymetrics.io/). To offer a standardized interface and preserve flexibility nginx is used as reverse proxy.
 
+## Hardware Assembly
+The ultra sonic sensors are mounted on two wooden boards which are fixed with two screws on a mounting threat. For transportation of the table just remove those two screws for each board and you can remove the wooden boards. The RPi, the sound sensor and the vibration sensor are mounted on a wooden board as well which is fixed by a screw and a mounting thread as well.  
+
+In the following you'll find some images of the implementation and the final result.
+
+![](./resources/sensor_tablekicker__aka_wip.jpg)
+
+![](./resources/sensors_tablekicker_aka_finish.jpg)
+
+
+
 ## Contribute
 If you're interested in this project or you just want more sensors or more information offered by the existing sensors please contact me in person in my office, via [email](michael.kirsch@jambit.com) or just simply [create an issue](https://github.com/waspmuc/tischkickermonitor/issues/new) on github for this project or go directly the corresponding repository.
 
