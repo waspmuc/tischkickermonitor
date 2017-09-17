@@ -25,7 +25,7 @@ The ultra sonic sensors are mounted on two wooden boards which are fixed with tw
 
 In the following you'll find some images of the implementation and the final result.
 
-![](./resources/sensor_tablekicker__aka_wip.jpg)
+![](./resources/sensor_tablekicker__aka_wip.JPG)
 
 ![](./resources/sensors_tablekicker_aka_finish.jpg)
 
