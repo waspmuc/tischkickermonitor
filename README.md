@@ -30,7 +30,6 @@ In the following you'll find some images of the implementation and the final res
 ![](./resources/sensors_tablekicker_aka_finish.jpg)
 
 
-
 ## Contribute
 If you're interested in this project or you just want more sensors or more information offered by the existing sensors please contact me in person in my office, via [email](michael.kirsch@jambit.com) or just simply [create an issue](https://github.com/waspmuc/tischkickermonitor/issues/new) on github for this project or go directly the corresponding repository.
 
