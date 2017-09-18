@@ -7,9 +7,11 @@ To avoid situations like this, I equipped the table with several sensors which a
 ## Available Sensors
 The following sensors are currently available:
 
-* [Ultra Sonic Sensor Service](http://kicker-aka.jambit.com/sonicsensor/v1/api/) - Offers the distance between the table and the players
 * [Sound Sensor Service](http://kicker-aka.jambit.com/soundsensor/v1/api/) - Offers the sound intensity around the table
 * [Vibration Sensor Service](http://kicker-aka.jambit.com/vibrationsensor/v1/api/) - Offers the vibration level of the table
+
+### Planned Sensors (testing phase)
+* [Ultra Sonic Sensor Service](http://kicker-aka.jambit.com/sonicsensor/v1/api/) - Offers the distance between the table and the players
 
 If you are missing a sensor, check out this [lists of supported sensors](http://wiki.seeed.cc/Grove/) and feel free to contribute to this project. :)
 
